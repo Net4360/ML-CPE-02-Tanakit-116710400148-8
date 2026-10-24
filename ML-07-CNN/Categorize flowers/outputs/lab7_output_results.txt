@@ -1,0 +1,4 @@
+=== ผลการทดลอง Lab 7: CNN ===
+Dataset: Flowers Recognition
+- Config 1 (1 Conv Layer, 5 Epochs) Test Accuracy: 0.3333 (Loss: 8.9314)
+- Config 2 (2 Conv Layers, 10 Epochs) Test Accuracy: 0.6667 (Loss: 1.0941)
